@@ -1,0 +1,5 @@
+Python code: "https://github.com/niya-benny/LangChain-RAG-project/blob/main/notebook/rag.ipynb"
+This is a code in the recent project on RAG I have done.
+
+Database code: "https://github.com/niya-benny/End-to-End_SQL_Excel_E-Commerce-Orders_Analysis-Project/blob/main/Advanced_analysis.sql"
+This is a code in the data analysis project I have done.
